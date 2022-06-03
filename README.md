@@ -1,2 +1,4 @@
-# exercicios-python
-Exercícios propostos para programação utilizando o Python
+# Exercicios em Python
+Exercícios propostos para a pratica de programação utilizando o Python
+
+
